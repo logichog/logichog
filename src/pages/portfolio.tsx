@@ -19,8 +19,8 @@ function Portfolio() {
           </header>
 
           <main className="px-3">
-            <Link to="/Project/1">Project 1</Link>
-            <Link to="/Project/2">project 2</Link>
+            <p><Link to="/Project/1">Project 1</Link></p>
+            <p><Link to="/Project/2">project 2</Link></p>
           </main>
 
           <footer className="mt-auto">
