@@ -24,7 +24,7 @@ function Home() {
               <p className="fw-normal">
                 The libraries I work in are React, svelt and I have three years of work experience working in ASP.Net core building PIMs (Product Information Management), Admins, and Eccommase websites.
               </p>
-			  <Link className='btn btn-dark' to="/portfolio">See my portfolio</Link>
+              <Link className='btn btn-dark' to="/portfolio">See my portfolio</Link>
               <Link className='btn btn-secondary mx-2' to="/contact">Contact me</Link>
             </div>
           </div>
